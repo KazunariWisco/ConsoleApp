@@ -9,7 +9,7 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("WISCO");
+            Console.WriteLine("WISCO6541");
         }
     }
 }
